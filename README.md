@@ -33,3 +33,4 @@ Think of it as your very own BloombergGPT-lite that runs *entirely locally*.
 
 ## 🧱 Project Structure
 
+more to come...
