@@ -1,4 +1,4 @@
-# 📊 EquiIntel – AI-Powered Equity Research Analyst (RAG + LLM)
+# 📊 EquIntel – AI-Powered Equity Research Analyst (RAG + LLM)
 
 **EquiIntel** is a local-first, AI-powered equity research platform that leverages cutting-edge Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques to analyze financial documents, research reports, and market insights — all from your own database of PDFs.
 
